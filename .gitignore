@@ -3,3 +3,7 @@ venv
 input
 output
 .ipynb_chckpoints
+config/.env
+gemini.py
+research.py
+webscraping.py
